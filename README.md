@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Peyton, a Computer Science and Game Design student at the <br>University of Central Florida. I specialize in languages used in game engines,<br>specifically C# and C++, however I am well-versed in Java and Javascript<br>as well. 
+Hi! I'm Peyton, a Computer Science and Game Design student at the University of Central Florida. I specialize in languages used in game engines, specifically C# and C++, however I am well-versed in Java and Javascript as well. 
 
 <!--
 - 🌱 I’m currently learning level design and deep learning!
