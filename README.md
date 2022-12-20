@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peyton</h1>
-<h3 align="center">A Computer Science and Game Design student at the University of Central Florida.</h3>
+<h3 align="center">Computer Science and Game Design student at the University of Central Florida.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peytonrb&label=Profile%20views&color=0e75b6&style=flat" alt="peytonrb" /> </p>
 
