@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Peyton</h1>
 <h3 align="center">A Computer Science and Game Design student at the University of Central Florida.</h3>
 
-- 🌱 I’m currently learning **Level Design and Deep Learning**
-
 - 📫 How to reach me **peytonbischof@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/peytonbischof/](https://www.linkedin.com/in/peytonbischof/)
-
-- ⚡ Fun fact **I also love 3D modelling and asset creation for games!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
