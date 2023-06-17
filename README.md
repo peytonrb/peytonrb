@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peyton</h1>
-<h3 align="center">A Computer Science and Game Design student at the University of Central Florida.</h3>
+<h3 align="center">Computer Science and Game Design student at the University of Central Florida.</h3>
 
 - 📫 How to reach me **peytonbischof@outlook.com**
 
