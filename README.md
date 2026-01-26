@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Peyton</h1>
+<h1 align="center">Hi :) I'm Peyton</h1>
 <h3 align="center">Gameplay Engineer & Technical Artist</h3>
 
 - 📫 How to reach me **peytonbischof@outlook.com**
