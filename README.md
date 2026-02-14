@@ -1,9 +1,9 @@
 <h1 align="center">Hi :) I'm Peyton</h1>
 <h3 align="center">Gameplay Engineer & Technical Artist</h3>
 
-- 📫 How to reach me **peytonbischof@outlook.com**
+- 📫 How to reach me: **peytonbischof@outlook.com**
 
-- 📄 See my portfolio [https://peytonrb.github.io/](https://peytonrb.github.io/)
+- 📄 See my portfolio: [https://peytonrb.github.io/](https://peytonrb.github.io/)
 
 - Play my games! [https://twixryleigh.itch.io/](https://twixryleigh.itch.io/)
 
