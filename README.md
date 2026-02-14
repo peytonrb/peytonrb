@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **peytonbischof@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/peytonbischof/](https://www.linkedin.com/in/peytonbischof/)
+- 📄 See my portfolio [https://peytonrb.github.io/](https://peytonrb.github.io/)
 
 - Play my games! [https://twixryleigh.itch.io/](https://twixryleigh.itch.io/)
 
